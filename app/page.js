@@ -14,7 +14,7 @@ const Home = () => {
     <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
       <h1 className="text-5xl font-bold mb-4">Python Pathways</h1>
       <p className="text-lg mb-8">The Future of Learning is Almost Here</p>
-      <div className="w-96 h-12 rounded-full bg-amber-50 relative bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
+      <div className="w-96 h-12 rounded-full bg-amber-50 relative   bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80">
 
         <div className="absolute top-0 left-0 w-64 h-12 rounded-full bg-orange-800"></div>
       </div>
