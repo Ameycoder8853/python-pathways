@@ -11,7 +11,7 @@ const Home = () => {
   };
 
   return (
-<div className="w-[100%] bg-white justify-center items-center text-center p-10">
+<div className="w-[100%] bg-black justify-center items-center text-center p-5">
 
     <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
       <h1 className="text-5xl font-bold mb-4 text-center">Python Pathways</h1>
