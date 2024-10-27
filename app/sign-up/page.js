@@ -117,7 +117,7 @@ const SignupForm = () => {
               {message}
             </p>
           )}
-          <div className="flex items-center justify-center w-[100%]">
+          <div className="flex items-center justify-center w-[100%] bg-white">
             <div className="justify-center items-center">
               <button
                 type="submit"
