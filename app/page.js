@@ -20,8 +20,8 @@ const Home = () => {
         <div className="absolute top-0 left-0 w-64 h-12 rounded-full bg-orange-800"></div>
       </div>
 </div>
-      <p className="text-xl mt-8 justify-center items-center p-1">Are you ready to be among the first to experience the future of learning?</p>
-      <p className="text-lg mt-4 text-orange-800 justify-center items-center p-1">
+      <p className="text-xl mt-8 justify-center items-center p-10">Are you ready to be among the first to experience the future of learning?</p>
+      <p className="text-lg mt-4 text-orange-800 justify-center items-center p-10">
         Reserve your seat at the Python Pathways launch event and be a part of something revolutionary.
       </p>
       <button
