@@ -118,7 +118,7 @@ const SignupForm = () => {
             </p>
           )}
           <div className="flex items-center justify-center w-[100%]">
-            <div className="justify-center items-center">
+           <div className="justify-center items-center">
               <button
                 type="submit"
                 disabled={isSubmitting}
