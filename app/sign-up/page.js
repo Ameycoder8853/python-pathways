@@ -117,14 +117,19 @@ const SignupForm = () => {
               {message}
             </p>
           )}
-          <div className="flex justify-center">
-            <button
-              type="submit"
-              disabled={isSubmitting}
-              className="bg-orange-800 hover:bg-orange-700 text-white font-bold py-2 px-12 rounded-full w-auto items-center disabled:opacity-50"
-            >
-              {isSubmitting ? 'Registering...' : 'Honour me'}
-            </button>
+          <div className="flex items-center justify-center w-[70%]">
+            <div className="justify-center items-center">
+              <button
+                type="submit"
+                disabled={isSubmitting}
+                className="bg-orange-800 hover:bg-orange-700 text-white font-bold py-2 px-12 rounded-full disabled:opacity-50 flex items-center justify-center"
+                style={{
+                  boxShadow: '0 0 10px rgba(255, 69, 0, 0.8), 0 0 20px rgba(255, 69, 0, 0.6), 0 0 30px rgba(255, 69, 0, 0.4)',
+                }}
+              >
+                {isSubmitting ? 'Registering...' : 'Honour me'}
+              </button>
+            </div>
           </div>
         </form>
       </div>
