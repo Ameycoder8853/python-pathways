@@ -68,7 +68,7 @@ const SignupForm = () => {
 
   return (
     <div className="min-h-screen bg-black flex items-center justify-center">
-      <div className="bg-black rounded-lg shadow-md p-8 w-120 text-white">
+      <div className="bg-black rounded-lg shadow-md p-8 w-120 text-white text-center">
         <h2 className="text-4xl font-bold mb-4 text-white text-center">
           Join us at the Python Pathways Launch Event!
         </h2>
