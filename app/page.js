@@ -16,7 +16,7 @@ const Home = () => {
       <h1 className="text-5xl font-bold mb-4">Python Pathways</h1>
       <p className="text-lg mb-8">The Future of Learning is Almost Here</p>
       <div className="w-96 h-12 rounded-full bg-white relative from-red-400 via-red-500 to-red-600 focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-900 shadow-2xl shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80">
-        <div
+       <div
           className="absolute top-0 left-0 h-12 w-64 rounded-full bg-orange-800"
           style={{
             boxShadow: '0 0 10px rgba(255, 69, 0, 0.8), 0 0 20px rgba(255, 69, 0, 0.6), 0 0 30px rgba(255, 69, 0, 0.4)',
