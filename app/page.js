@@ -10,7 +10,6 @@ const Home = () => {
     router.push('/sign-up');
   };
 
-
   return (
 <div className="p-5 w-[95%] items center bg-black">
     <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
