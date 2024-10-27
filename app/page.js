@@ -12,7 +12,9 @@ const Home = () => {
 
   return (
 <div className="w-[100%] bg-white justify-center items-center text-center">
+
     <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
+
       <h1 className="text-5xl font-bold mb-4 text-center">Python Pathways</h1>
       <p className="text-lg mb-8">The Future of Learning is Almost Here</p>
       <div className="w-96 h-12 rounded-full bg-white relative from-red-400 via-red-500 to-red-600 focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-900 shadow-2xl shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 bg-white w-[90%] items-center p-5">
